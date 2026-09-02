@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Extraction and analysis of the VHP4Safety project board (Scrum@VHP4S)
+message: >-
+  If you use this software or dataset, please cite both the archived
+  release and the accompanying article.
+type: software
+authors:
+  - given-names: Marvin
+    family-names: Martens
+    orcid: "https://orcid.org/0000-0003-2230-0840"
+    affiliation: Department of Translational Genomics, Maastricht University
+repository-code: "https://github.com/VHP4Safety/vhp4safety-board-analysis"
+license: MIT
+version: 1.1.0
+doi: "10.5281/zenodo.22256442"
+date-released: "2026-09-02"

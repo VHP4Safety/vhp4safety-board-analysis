@@ -1,0 +1,31 @@
+{
+  "title": "Extraction and analysis of the VHP4Safety project board (Scrum@VHP4S)",
+  "description": "<p>Extraction and analysis code and the exported board dataset underlying the supplementary information of Teunis et al. (2026), <em>Promoting co-creation and flexibility: the agile approach of VHP4Safety</em>.</p><p>The VHP4Safety consortium coordinated its development work on a shared GitHub Projects board (&quot;Scrum@VHP4S&quot;). This archive contains the GraphQL export script, the analysis scripts, the exported dataset (831 board items, snapshot of 19 July 2026) and all figures: monthly throughput, cumulative flow and open backlog, cycle time, Kaplan-Meier ticket lifetime, and distribution across repositories. Results are reported both for the full work set (776 issues and pull requests) and for the set excluding the 197 service-completeness items raised at the seventh project hackathon (579 items).</p><p>The project board is an internal consortium resource. The released dataset is therefore reduced to the seven fields required to reproduce the reported analyses: item type, state, repository, and the creation, closure, merge and last-updated timestamps. Every figure and summary statistic in the supplementary information reproduces from it unchanged.</p>",
+  "upload_type": "software",
+  "license": "mit",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Martens, Marvin",
+      "affiliation": "Department of Translational Genomics, Maastricht University",
+      "orcid": "0000-0003-2230-0840"
+    }
+  ],
+  "keywords": [
+    "agile",
+    "Scrum",
+    "research software engineering",
+    "project management",
+    "VHP4Safety",
+    "GitHub Projects",
+    "Kaplan-Meier",
+    "new approach methodologies"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/VHP4Safety/vhp4safety-board-analysis",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

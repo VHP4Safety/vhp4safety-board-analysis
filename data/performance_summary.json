@@ -1,0 +1,57 @@
+{
+  "full": {
+    "label": "full",
+    "work_items": 776,
+    "closed_items": 529,
+    "cum_created_end": 776,
+    "cum_closed_end": 529,
+    "peak_open_backlog": 339,
+    "peak_month": "2026-01",
+    "cycle_median_d": 10.5,
+    "cycle_mean_d": 67.2,
+    "cycle_p90_d": 205.9,
+    "cycle_max_d": 670.0,
+    "closed_within_1wk_pct": 43.0,
+    "closed_within_1mo_pct": 61.0,
+    "open_gt_90d": 131,
+    "busiest_created_month": "2025-12"
+  },
+  "excl_svc": {
+    "label": "excl. svc-completeness",
+    "work_items": 579,
+    "closed_items": 462,
+    "cum_created_end": 579,
+    "cum_closed_end": 462,
+    "peak_open_backlog": 157,
+    "peak_month": "2026-01",
+    "cycle_median_d": 7.3,
+    "cycle_mean_d": 59.0,
+    "cycle_p90_d": 205.9,
+    "cycle_max_d": 670.0,
+    "closed_within_1wk_pct": 49.0,
+    "closed_within_1mo_pct": 70.0,
+    "open_gt_90d": 91,
+    "busiest_created_month": "2026-03"
+  },
+  "km_lifetime": {
+    "n": 776,
+    "events": 529,
+    "censored": 247,
+    "km_median_lifetime_d": 85.7,
+    "S_30d": 0.584,
+    "S_90d": 0.486,
+    "S_180d": 0.388,
+    "S_365d": 0.272,
+    "snapshot": "2026-07-16"
+  },
+  "km_lifetime_excl_svc": {
+    "n": 579,
+    "events": 462,
+    "censored": 117,
+    "km_median_lifetime_d": 16.1,
+    "S_30d": 0.442,
+    "S_90d": 0.358,
+    "S_180d": 0.302,
+    "S_365d": 0.195
+  }
+}

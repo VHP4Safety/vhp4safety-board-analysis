@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/items_raw.jsonl
+.DS_Store
