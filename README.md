@@ -81,8 +81,9 @@ no backing repository, and carry no open/closed lifecycle.
   the sprint as a single value of the *Status* field rather than using GitHub's
   iteration field, so only the active sprint was ever visible and historical
   sprint boundaries cannot be reconstructed.
-- **Story points were not operational** — a numeric estimate is present on 3 of
-  776 work items — so velocity in points cannot be computed.
+- **Story points were not operational** — no numeric estimate is set on any of the
+  776 work items (a relative XS–XL size is set on 116, or 15%), so velocity in
+  points can be neither tracked nor reconstructed.
 
 ## Citation
 
